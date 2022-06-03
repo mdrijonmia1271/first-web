@@ -1,0 +1,26 @@
+
+h1{
+    color: blue;
+    background-color: hsl(0, 58%, 6%);
+    width: 99px;
+    
+}
+#hading_1{
+    color: blue;
+}
+#div_section{
+    text-align: center;
+}
+.orderlist{
+    color:brown;
+    border: 10px solid blueviolet;
+    border-radius: 10px;
+    margin: 10px;
+    margin-left: 20%;
+    text-align: center;
+    padding: 20px;
+    width: 150px;
+    display: inline-block;
+   
+    
+}
